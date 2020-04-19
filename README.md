@@ -76,6 +76,8 @@ pip install Flask
 > python formflask.py
 
 * Enter the link of the profile that is to be scraped.
+* The scrapped information from that LinkedIn account will be parsed to the html forms that you see in the screenshots.
+* You can edit the information wherever you wish to or add in more information by clicking on the Add button(Similarly for Remove)
 
 * Output of the program is saved in pdf file named 'output.pdf'.
 
