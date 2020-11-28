@@ -98,3 +98,4 @@ pip install Flask
 
 ## Output
 <img width="406" alt="resume2" src="https://user-images.githubusercontent.com/41858958/79599725-a4eb7200-8103-11ea-9d75-200e3dbcf7e7.PNG">
+
