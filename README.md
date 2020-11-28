@@ -79,7 +79,7 @@ pip install Flask
 * The scrapped information from that LinkedIn account will be parsed to the html forms and then to the Resume Template that you see in the screenshots.
 * You can edit the information wherever you wish to or add in more information by clicking on the Add button(Similarly for Remove).
 
-* Output of the program is saved in pdf file named 'output.pdf'.
+* Output of the program is saved in pdf file named 'output.pdf'
 
 ## Screenshots
 <img width="923" alt="11" src="https://user-images.githubusercontent.com/41858958/79599995-10354400-8104-11ea-89da-34c1b4f9c94c.png">
